@@ -25,3 +25,6 @@
 [submodule "42-Cub3D"]
 	path = 42-Cub3D
 	url = git@github.com:lboulang42/42-Cub3D.git
+[submodule "42-cpp-modules"]
+	path = 42-cpp-modules
+	url = git@github.com:lboulang42/42-cpp-modules.git
