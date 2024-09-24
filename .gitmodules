@@ -34,3 +34,6 @@
 [submodule "42-Transcendence"]
 	path = 42-Transcendence
 	url = git@github.com:lboulang42/42-Transcendence.git
+[submodule "42-Inception"]
+	path = 42-Inception
+	url = git@github.com:lboulang42/42-Inception.git
