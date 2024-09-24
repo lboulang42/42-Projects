@@ -7,3 +7,12 @@
 [submodule "42-get_next_line"]
 	path = 42-get_next_line
 	url = git@github.com:lboulang42/42-get_next_line.git
+[submodule "42-pipex"]
+	path = 42-pipex
+	url = git@github.com:lboulang42/42-pipex.git
+[submodule "42-so_long"]
+	path = 42-so_long
+	url = git@github.com:lboulang42/42-so_long.git
+[submodule "42-push_swap"]
+	path = 42-push_swap
+	url = git@github.com:lboulang42/42-push_swap.git
