@@ -18,7 +18,7 @@
 	url = git@github.com:lboulang42/42-push_swap.git
 [submodule "42-Minishell"]
 	path = 42-Minishell
-	url = git@github.com-lboulang42/42-Minishell.git
+	url = git@github.com:lboulang42/42-Minishell.git
 [submodule "42-philosophers"]
 	path = 42-philosophers
 	url = git@github.com:lboulang42/42-philosophers.git
@@ -33,4 +33,4 @@
 	url = git@github.com:lboulang42/42-libft.git
 [submodule "42-Transcendence"]
 	path = 42-Transcendence
-	url = git@github.com-lboulang42/42-Transcendence.git
+	url = git@github.com:lboulang42/42-Transcendence.git
