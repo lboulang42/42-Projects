@@ -37,3 +37,6 @@
 [submodule "42-Inception"]
 	path = 42-Inception
 	url = git@github.com:lboulang42/42-Inception.git
+[submodule "42-Webserv"]
+	path = 42-Webserv
+	url = git@github.com:lboulang42/42-Webserv.git
