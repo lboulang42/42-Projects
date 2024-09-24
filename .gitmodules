@@ -31,3 +31,6 @@
 [submodule "42-libft"]
 	path = 42-libft
 	url = git@github.com:lboulang42/42-libft.git
+[submodule "42-Transcendence"]
+	path = 42-Transcendence
+	url = git@github.com-lboulang42:lboulang42/42-Transcendence.git
