@@ -1,0 +1,3 @@
+[submodule "42-Piscine-C"]
+	path = 42-Piscine-C
+	url = git@github.com:lboulang42/42-Piscine-C.git
