@@ -4,26 +4,34 @@
 # 42-Projects
 42 School Projects Repository
 
+# [Transcendence](https://github.com/lboulang42/42-Transcendence)
 
-[ft_transcendence](https://github.com/lboulang42/42-Transcendence)
-[webserv](https://github.com/lboulang42/42-Webserv)
-[Inception](https://github.com/lboulang42/42-Inception)
+# [Webserv](https://github.com/lboulang42/42-Webserv)
 
+# [Inception](https://github.com/lboulang42/42-Inception)
 
-[CPP Module](https://github.com/lboulang42/42-cpp-modules)
-[cub3d](https://github.com/lboulang42/42-Cub3D)
-NetPractice no repo
+# [CPP Modules](https://github.com/lboulang42/42-cpp-modules)
 
-[minishell](https://github.com/lboulang42/42-Minishell)
-[Philosophers](https://github.com/lboulang42/42-philosophers)
+# [Cub3D](https://github.com/lboulang42/42-Cub3D)
 
-[push_swap](https://github.com/lboulang42/42-push_swap)
-[so_long](https://github.com/lboulang42/42-so_long)
-[pipex](https://github.com/lboulang42/42-pipex)
+# NetPractice
 
+# [Minishell](https://github.com/lboulang42/42-Minishell)
 
-Born2beroot no repo
+# [Philosophers](https://github.com/lboulang42/42-philosophers)
 
-[ft_printf](https://github.com/lboulang42/42-ft_printf)
-[get_next_line](https://github.com/lboulang42/42-get_next_line)
-[Libft](https://github.com/lboulang42/42-libft)
+# [Push_swap](https://github.com/lboulang42/42-push_swap)
+
+# [So_long](https://github.com/lboulang42/42-so_long)
+
+# [Pipex](https://github.com/lboulang42/42-pipex)
+
+# Born2beroot
+
+# [Ft_printf](https://github.com/lboulang42/42-ft_printf)
+
+# [Get_next_line](https://github.com/lboulang42/42-get_next_line)
+
+# [Libft](https://github.com/lboulang42/42-libft)
+
+# [Piscine C](https://github.com/lboulang42/42-Piscine-C)
